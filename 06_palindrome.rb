@@ -16,5 +16,11 @@
 #
 
 def palindrome (string)
-  # Your code here
+  backwards = false
+  if string == string.reverse
+    backwards = true
+  end
+  backwards
 end
+
+puts palindrome ("amanaplanacanalpanama")
