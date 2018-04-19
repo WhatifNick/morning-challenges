@@ -1,5 +1,6 @@
 
 # 2. A business called “The Company” created a new phone called the companyPhone that needs packing to send away for sale. The Company needs to know how many phones in their pretty new packaging (rectangular prisms) that measures: with  width 5cm, length 7.4cm, and depth 4cm we can fit into a box that is 32cm wide,  43cm long and 22.1cm high.   (think about writing some pseudo code first that steps through all the commands you need to write. Keep it as simple as you can.
+<<<<<<< HEAD
 
 # w: 5 cm
 # l: 7.4 cm
@@ -45,3 +46,5 @@ end
 boxing
 
 # puts x = phone[:w]/box[:w].floor
+=======
+>>>>>>> b84f2196ac2ba28e45c99bada9038ed95832e15f
